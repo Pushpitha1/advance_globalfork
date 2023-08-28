@@ -5,6 +5,8 @@ public class advance {
 		
 		
 		System.out.println("hiiiii");
+		
+		System.out.println("hello");
 
 	}
 

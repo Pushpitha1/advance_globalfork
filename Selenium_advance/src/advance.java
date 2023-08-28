@@ -7,6 +7,8 @@ public class advance {
 		System.out.println("hiiiii");
 		
 		System.out.println("hello");
+		System.out.println("how are you");
+		
 
 	}
 
